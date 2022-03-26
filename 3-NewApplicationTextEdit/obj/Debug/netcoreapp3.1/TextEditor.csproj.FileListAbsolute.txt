@@ -1,0 +1,13 @@
+C:\Users\willi\MeuApp\balta.io\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+C:\Users\willi\MeuApp\balta.io\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\Users\willi\MeuApp\balta.io\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\Users\willi\MeuApp\balta.io\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\willi\MeuApp\balta.io\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\Users\willi\MeuApp\balta.io\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\Users\willi\MeuApp\balta.io\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\Users\willi\MeuApp\balta.io\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\Users\willi\MeuApp\balta.io\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\willi\MeuApp\balta.io\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\willi\MeuApp\balta.io\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\willi\MeuApp\balta.io\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\willi\MeuApp\balta.io\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache

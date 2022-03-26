@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\bin\Debug\netcoreapp3.1\NewApplicationCalculation.exe
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\bin\Debug\netcoreapp3.1\NewApplicationCalculation.deps.json
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\bin\Debug\netcoreapp3.1\NewApplicationCalculation.runtimeconfig.json
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\bin\Debug\netcoreapp3.1\NewApplicationCalculation.runtimeconfig.dev.json
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\bin\Debug\netcoreapp3.1\NewApplicationCalculation.dll
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\bin\Debug\netcoreapp3.1\NewApplicationCalculation.pdb
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\obj\Debug\netcoreapp3.1\NewApplicationCalculation.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\obj\Debug\netcoreapp3.1\NewApplicationCalculation.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\obj\Debug\netcoreapp3.1\NewApplicationCalculation.AssemblyInfo.cs
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\obj\Debug\netcoreapp3.1\NewApplicationCalculation.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\obj\Debug\netcoreapp3.1\NewApplicationCalculation.dll
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\obj\Debug\netcoreapp3.1\NewApplicationCalculation.pdb
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationCalculation\obj\Debug\netcoreapp3.1\NewApplicationCalculation.genruntimeconfig.cache

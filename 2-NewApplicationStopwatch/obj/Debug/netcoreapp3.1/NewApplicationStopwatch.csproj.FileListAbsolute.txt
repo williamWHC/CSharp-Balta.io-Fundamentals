@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\bin\Debug\netcoreapp3.1\NewApplicationStopwatch.exe
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\bin\Debug\netcoreapp3.1\NewApplicationStopwatch.deps.json
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\bin\Debug\netcoreapp3.1\NewApplicationStopwatch.runtimeconfig.json
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\bin\Debug\netcoreapp3.1\NewApplicationStopwatch.runtimeconfig.dev.json
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\bin\Debug\netcoreapp3.1\NewApplicationStopwatch.dll
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\bin\Debug\netcoreapp3.1\NewApplicationStopwatch.pdb
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\obj\Debug\netcoreapp3.1\NewApplicationStopwatch.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\obj\Debug\netcoreapp3.1\NewApplicationStopwatch.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\obj\Debug\netcoreapp3.1\NewApplicationStopwatch.AssemblyInfo.cs
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\obj\Debug\netcoreapp3.1\NewApplicationStopwatch.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\obj\Debug\netcoreapp3.1\NewApplicationStopwatch.dll
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\obj\Debug\netcoreapp3.1\NewApplicationStopwatch.pdb
+C:\Users\willi\Desktop\CurseBalta.io\NewApplicationStopwatch\obj\Debug\netcoreapp3.1\NewApplicationStopwatch.genruntimeconfig.cache

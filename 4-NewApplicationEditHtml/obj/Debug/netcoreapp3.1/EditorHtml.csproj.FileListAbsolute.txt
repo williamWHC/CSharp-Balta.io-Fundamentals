@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\willi\Desktop\CurseBalta.io\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache
