@@ -1,0 +1,13 @@
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\bin\Debug\netcoreapp3.1\DataExempleApplication.exe
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\bin\Debug\netcoreapp3.1\DataExempleApplication.deps.json
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\bin\Debug\netcoreapp3.1\DataExempleApplication.runtimeconfig.json
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\bin\Debug\netcoreapp3.1\DataExempleApplication.runtimeconfig.dev.json
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\bin\Debug\netcoreapp3.1\DataExempleApplication.dll
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\bin\Debug\netcoreapp3.1\DataExempleApplication.pdb
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\obj\Debug\netcoreapp3.1\DataExempleApplication.csprojAssemblyReference.cache
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\obj\Debug\netcoreapp3.1\DataExempleApplication.AssemblyInfoInputs.cache
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\obj\Debug\netcoreapp3.1\DataExempleApplication.AssemblyInfo.cs
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\obj\Debug\netcoreapp3.1\DataExempleApplication.csproj.CoreCompileInputs.cache
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\obj\Debug\netcoreapp3.1\DataExempleApplication.dll
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\obj\Debug\netcoreapp3.1\DataExempleApplication.pdb
+D:\Balta.io\01-Fundamentos\CurseBalta.io\5-Data\DataExempleApplication\obj\Debug\netcoreapp3.1\DataExempleApplication.genruntimeconfig.cache
