@@ -17,7 +17,7 @@ namespace DataExempleApplication
             // Console.WriteLine(date.DayOfWeek);
             // Console.WriteLine((int)date.DayOfWeek);
 
-            DateTime data = DateTime.Now;
+            // DateTime data = DateTime.Now;
             //Formatar o tipo DatTime para manipular string
             // string formating = String.Format($"{data:dd/MM/yyyy hh:mm:ss ff z}");
             // string formating = String.Format($"{data:t}");       //Shorts Date time Output => 19:30
@@ -33,15 +33,28 @@ namespace DataExempleApplication
             // string formating = String.Format("{0:u}", data);     // Output => 2022-04-09 21:08:44Z
             // Console.WriteLine(formating);
 
-            Console.WriteLine(data);
-            Console.WriteLine(data.AddDays(10));        // incrementa quantidades de dias 
-            Console.WriteLine(data.AddMonths(1));       // incrementa Quantidades de meses
-            Console.WriteLine(data.AddYears(2));        // incrementa quantidade de anos
-            Console.WriteLine(data.AddHours(1));        // incremento Horas
-            Console.WriteLine(data.AddMinutes(10));     // Incremento em Minutos
-            Console.WriteLine(data.AddSeconds(10));     // Incremento em segundos
-            Console.WriteLine(data.AddMilliseconds(5)); // Incrementa em milisegundos
-            Console.WriteLine(data.AddTicks(1));        // Incremeta nanosegundo
+            // Console.WriteLine(data);
+            // Console.WriteLine(data.AddDays(10));        // incrementa quantidades de dias 
+            // Console.WriteLine(data.AddMonths(1));       // incrementa Quantidades de meses
+            // Console.WriteLine(data.AddYears(2));        // incrementa quantidade de anos
+            // Console.WriteLine(data.AddHours(1));        // incremento Horas
+            // Console.WriteLine(data.AddMinutes(10));     // Incremento em Minutos
+            // Console.WriteLine(data.AddSeconds(10));     // Incremento em segundos
+            // Console.WriteLine(data.AddMilliseconds(5)); // Incrementa em milisegundos
+            // Console.WriteLine(data.AddTicks(1));        // Incremeta nanosegundo
+
+            //Verificando comparações data
+            DateTime data = DateTime.Now;
+            // DateTime? date = null;
+
+            if (data.Day <= DateTime.Now.Day)
+            {
+                Console.WriteLine("é menor ou igual");
+            }
+            else
+            {
+                Console.WriteLine("Não é menor");
+            }
         }
     }
 }
