@@ -30,9 +30,18 @@ namespace DataExempleApplication
             // string formating = String.Format("{0:r}", data);     // Output => Sat, 09 Apr 2022 21:05:44 GMT
             // string formating = String.Format("{0:R}", data);     // Output => Sat, 09 Apr 2022 21:06:19 GMT
             // string formating = String.Format("{0:s}", data);     // Output => 2022-04-09T21:07:36
-            string formating = String.Format("{0:u}", data);        // Output => 2022-04-09 21:08:44Z
-            Console.WriteLine(formating);
+            // string formating = String.Format("{0:u}", data);     // Output => 2022-04-09 21:08:44Z
+            // Console.WriteLine(formating);
 
+            Console.WriteLine(data);
+            Console.WriteLine(data.AddDays(10));        // incrementa quantidades de dias 
+            Console.WriteLine(data.AddMonths(1));       // incrementa Quantidades de meses
+            Console.WriteLine(data.AddYears(2));        // incrementa quantidade de anos
+            Console.WriteLine(data.AddHours(1));        // incremento Horas
+            Console.WriteLine(data.AddMinutes(10));     // Incremento em Minutos
+            Console.WriteLine(data.AddSeconds(10));     // Incremento em segundos
+            Console.WriteLine(data.AddMilliseconds(5)); // Incrementa em milisegundos
+            Console.WriteLine(data.AddTicks(1));        // Incremeta nanosegundo
         }
     }
 }
